@@ -1,15 +1,6 @@
-Here is a **clean, polished, GitHub-ready README** that:
 
-✨ incorporates your **ResNet vs ConvNeXt model metrics** from *res_metrics.txt* 
-✨ uses the **core methodology, architecture, datasets, and workflow** from your IEEE paper draft 
-✨ adds a full **Dataset (DS) Description** section (as you requested)
-✨ keeps the tone professional enough for GitHub but still readable and structured
 
-If you'd like, I can produce a **short version**, **a highly visual version**, or **a hyper-technical academic version**.
-
----
-
-# 🌱 Hierarchical Leaf–Disease Segmentation
+#  Hierarchical Leaf–Disease Segmentation
 
 A Unified ConvNeXt-Tiny Framework for Plant Health Monitoring
 
